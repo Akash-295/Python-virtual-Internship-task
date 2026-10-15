@@ -1,0 +1,85 @@
+{
+  "rows": 603,
+  "columns": 13,
+  "duplicate_rows": 3,
+  "columns_detail": {
+    "Order_ID": {
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_percent": 0.0,
+      "unique_non_null": 600
+    },
+    "Order_Date": {
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_percent": 0.0,
+      "unique_non_null": 372
+    },
+    "Region": {
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_percent": 0.0,
+      "unique_non_null": 6
+    },
+    "Product": {
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_percent": 0.0,
+      "unique_non_null": 7
+    },
+    "Sales_Channel": {
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_percent": 0.0,
+      "unique_non_null": 3
+    },
+    "Payment_Method": {
+      "dtype": "str",
+      "missing_count": 12,
+      "missing_percent": 1.99,
+      "unique_non_null": 5
+    },
+    "Unit_Price_INR": {
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_percent": 0.0,
+      "unique_non_null": 6
+    },
+    "Quantity": {
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_percent": 0.0,
+      "unique_non_null": 4
+    },
+    "Discount_Rate": {
+      "dtype": "float64",
+      "missing_count": 0,
+      "missing_percent": 0.0,
+      "unique_non_null": 5
+    },
+    "Sales_INR": {
+      "dtype": "float64",
+      "missing_count": 0,
+      "missing_percent": 0.0,
+      "unique_non_null": 108
+    },
+    "Profit_INR": {
+      "dtype": "float64",
+      "missing_count": 0,
+      "missing_percent": 0.0,
+      "unique_non_null": 600
+    },
+    "Customer_Rating": {
+      "dtype": "float64",
+      "missing_count": 33,
+      "missing_percent": 5.47,
+      "unique_non_null": 32
+    },
+    "Delivery_Days": {
+      "dtype": "float64",
+      "missing_count": 21,
+      "missing_percent": 3.48,
+      "unique_non_null": 9
+    }
+  }
+}

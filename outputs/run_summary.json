@@ -1,0 +1,18 @@
+{
+  "input_file": "data\\retail_sales_eda_dataset.csv",
+  "original_shape": [
+    603,
+    13
+  ],
+  "working_copy_shape": [
+    603,
+    13
+  ],
+  "exact_duplicate_rows_before_cleaning": 3,
+  "missing_cells_before_cleaning": 66,
+  "notes": [
+    "No rows were automatically removed.",
+    "No missing values were automatically imputed.",
+    "Review the profile and charts before applying domain-specific rules."
+  ]
+}

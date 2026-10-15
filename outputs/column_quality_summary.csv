@@ -1,0 +1,14 @@
+,missing_count,missing_percent,dtype,unique_non_null
+Customer_Rating,33,5.47,float64,32
+Delivery_Days,21,3.48,float64,9
+Payment_Method,12,1.99,str,5
+Order_Date,0,0.0,str,372
+Order_ID,0,0.0,str,600
+Sales_Channel,0,0.0,str,3
+Product,0,0.0,str,7
+Region,0,0.0,str,6
+Unit_Price_INR,0,0.0,int64,6
+Discount_Rate,0,0.0,float64,5
+Quantity,0,0.0,int64,4
+Profit_INR,0,0.0,float64,600
+Sales_INR,0,0.0,float64,108
